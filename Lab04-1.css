@@ -1,0 +1,24 @@
+
+.outside
+{
+    background: #4ce9cf;
+    padding: 5px;
+}
+.inside
+{
+    background-color: rgb(233, 130, 170);
+    padding: 10px;
+}
+.input
+{
+    margin-left: 50%;
+}
+
+.outt
+{
+    background: #f82b2b;
+}
+.inn
+{
+    background-color: rgb(65, 9, 219);
+}

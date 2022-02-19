@@ -1,0 +1,12 @@
+#show{
+    padding: 5px;
+    border: 0.5px solid #5a5a5a;
+    background-color: #f1c4f5;
+    text-decoration: none;
+}
+a:active{
+    padding: 1px;
+}
+.hidden{
+    display: none;
+}

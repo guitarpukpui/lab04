@@ -1,0 +1,16 @@
+td{
+    border-bottom: 10px solid steelblue ;
+    border-right: 10px solid steelblue;
+    height: 100px;
+    width: 100px;
+}
+.noRight{
+    border-right: none;
+}
+.noBottom{
+    border-bottom: none;
+}
+p{
+    size: 10px;
+    border-radius: 5px;
+}
